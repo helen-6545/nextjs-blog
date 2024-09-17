@@ -1,4 +1,5 @@
 import Image from "next/image";
+import gallery from "./gallery"
 
 export default function Home() {
   return (
